@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0" 
+    xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon 
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+    alphabet="ipa" 
+    xml:lang="en-US">
+    <lexeme>
+        <grapheme>record</grapheme>
+        <phoneme>rɪˈkɔrd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>SQL</grapheme>
+        <phoneme>ɛs kjuː ɛl</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>SOP</grapheme>
+        <phoneme>s  o  p</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Record </grapheme>
+        <phoneme>rɪˈkɔːd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Record</grapheme>
+        <phoneme>rɪˈkɔːd</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Software</grapheme>
+        <phoneme>sɔːftwɛər</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>PEEPO</grapheme>
+        <phoneme>piː ˈiː ˈpiː ˈoʊ</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>Database</grapheme>
+        <phoneme>deɪtəbeɪs</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>name </grapheme>
+        <phoneme>n a m e</phoneme>
+    </lexeme>
+</lexicon>
