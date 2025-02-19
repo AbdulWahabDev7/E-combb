@@ -1,0 +1,2 @@
+# E-combb
+lexicon file 
